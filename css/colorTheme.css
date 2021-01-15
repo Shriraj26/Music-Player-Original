@@ -13,7 +13,7 @@
 	--top-four-images-text-heading: white;	
 	--secondary-headings: white;
 	--main-page-three-dots: white;
-
+	--generes-bkg-color: black;
 	--same-color: white;	
 	--negative-color: white;
 
@@ -40,7 +40,7 @@
 	--secondary-headings: #650D88;
 	--main-page-three-dots: black;
 
-
+	--generes-bkg-color: #D0ECF7;
 	--same-color: white;
 	--negative-color: black;
 
@@ -119,7 +119,7 @@ p, h1,span{
 
 /*generes boxes*/
 .generes-small-divs{
-	background-color: var(--top-navbar-bkg-color);
+	background-color: var(--generes-bkg-color);
 }
 
 /*tooltip contents*/
