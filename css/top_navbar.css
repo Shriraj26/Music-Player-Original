@@ -66,6 +66,10 @@ i.fa-bell{
 	margin-left: 16px;
 	border: 2px solid yellow;
 }
+
+#inner-navbar-div p{
+	margin-right: 5px;
+}
 /*navbar over*/
 
 

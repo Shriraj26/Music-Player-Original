@@ -27,6 +27,11 @@
 		width: 20px;
 		margin-left: 10px;
 	}
+
+	/*Theme switcher*/
+	#inner-navbar-div p{
+		font-size: 0.8em;
+	}
 }	
 
 @media only screen and (max-width: 500px){
@@ -51,6 +56,9 @@
 		height: 15px;
 		width: 15px;
 		
+	}
+	#inner-navbar-div p{
+		font-size: 0.7em;
 	}
 }
 
